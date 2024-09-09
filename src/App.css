@@ -1,0 +1,31 @@
+.centerCard{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.more{
+  border: none;
+  background-color: white;
+  font-weight: 600;
+  color: green;
+}
+
+.less{
+  border: none;
+  background-color: white;
+  font-weight: 600;
+  color: red;
+}
+
+.searchAdd{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.search{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
